@@ -21,3 +21,8 @@ with non-negative weights.. The second one was addressed through *Radio DCA* [2]
 
 
 [3] Amir Beck and Marc Teboulle. “A fast iter-ative shrinkage-thresholding algorithm forlinear inverse problems”. In:SIAM journalon imaging sciences2.1, 2009
+
+
+Optimization Project for the Optimization for Data Science course, Data Science Master Degree, Padova
+
+Group components: Andrea Sinigaglia - Giuliano Squarcina - Francesco Ferretto
